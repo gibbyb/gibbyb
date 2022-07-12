@@ -6,7 +6,7 @@
 
 - 💞️ I would love to collaborate, and would love to hear from any other developers either looking for help on their project, or looking to give me advice on my own projects. Please feel free to reach out to me! I should also mention somewhere in here that some of my projects may not be completely agnostic, and may only work within my job, or may be dependant on software we use specifically. I will label these accordingly to make that clear if so. These projects will be uploaded for version control as well as a way of documenting work for my employers, friends, clients, etc.
 
-- 📫 You can email me at brownagabriel@gmail.com
+- 📫 You can email me at gib@gibbyb.com
 
 <!---
 gibbyb/gibbyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
