@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @gibbyb
 
+- This GitHub page is mostly being migrated to git.gibbyb.com, where you will find most of my more up to date contributions and projects! :)
+
 - 👀 I’m interested in anything and everything computers. I am a senior at USM for Applied Computer Science, and I work for the City as a PC support technician. In my free time I like to read and ride my bike. I love learning & understanding the world & the people around me.
 
 - 🌱 I’m currently learning Java. I have decided on Java as the language I want to master first. I have experience with C++ as well. I feel confident that anything I could write in Java, I could also write in C++, given twice the time, but I certainly prefer Java for now. I also have experience with C, C#, HTML, CSS, Javascript, & Visual Basic. I am working on various projects of my own in order to try and solve problems I encounter, whether at work, or at home. I mostly just need to learn as much as possible, so my projects will probably reflect that.
