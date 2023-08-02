@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gibbyb
 
-- This GitHub page is mostly being migrated to git.gibbyb.com, where you will find most of my more up to date contributions and projects! :)
+- This GitHub page is mostly being migrated to https://git.gibbyb.com, where you will find most of my more up to date contributions and projects! :)
 
 - 👀 I’m interested in anything and everything computers. I am a senior at USM for Applied Computer Science, and I work for the City as a PC support technician. In my free time I like to read and ride my bike. I love learning & understanding the world & the people around me.
 
