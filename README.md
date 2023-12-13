@@ -1,14 +1,28 @@
-- 👋 Hi, I’m @gibbyb
+# Welcome to My GitHub Profile!
 
-- This GitHub page is mostly being migrated to https://git.gibbyb.com, where you will find most of my more up to date contributions and projects! :)
+## [Gib's Git](https://git.gibbyb.com/gib)
+- This is my self hosted Git Repo. While I do try to keep my projects up to date on GitHub as well, My Git repo takes priority usually.
 
-- 👀 I’m interested in anything and everything computers. I am a senior at USM for Applied Computer Science, and I work for the City as a PC support technician. In my free time I like to read and ride my bike. I love learning & understanding the world & the people around me.
+## Projects
 
-- 🌱 I’m currently learning Java. I have decided on Java as the language I want to master first. I have experience with C++ as well. I feel confident that anything I could write in Java, I could also write in C++, given twice the time, but I certainly prefer Java for now. I also have experience with C, C#, HTML, CSS, Javascript, & Visual Basic. I am working on various projects of my own in order to try and solve problems I encounter, whether at work, or at home. I mostly just need to learn as much as possible, so my projects will probably reflect that.
+### Tech Tracker
+- **Description**: React & Node.js Website for Technicians to update their status at the City of Gulfport
+- **Link**: [Visit Project](https://techtracker.gibbyb.com)
 
-- 💞️ I would love to collaborate, and would love to hear from any other developers either looking for help on their project, or looking to give me advice on my own projects. Please feel free to reach out to me! I should also mention somewhere in here that some of my projects may not be completely agnostic, and may only work within my job, or may be dependant on software we use specifically. I will label these accordingly to make that clear if so. These projects will be uploaded for version control as well as a way of documenting work for my employers, friends, clients, etc.
+### Gaming School Database Migration (Work in Progress)
+- **Description**: Migrating Access database to MySQL and Recreating forms using React, Node.js, Typescript, & TailwindCSS
+- **Link**: [Visit Project](https://git.gibbyb.com/gib/games_rewrite) 
 
-- 📫 You can email me at gib@gibbyb.com
+### Wired World
+- **Description**: Mock Website for Electronics Store written in PHP. Created as project for DBMS Class
+- **Link**: [Visit Project](https://wiredworld.gibbyb.com)
+
+
+
+---
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+
 
 <!---
 gibbyb/gibbyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
