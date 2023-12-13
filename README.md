@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile!
-
 ## [Gib's Git](https://git.gibbyb.com/gib)
 - This is my self hosted Git Repo. While I do try to keep my projects up to date on GitHub as well, My Git repo takes priority usually.
 
