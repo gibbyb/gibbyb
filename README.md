@@ -10,7 +10,7 @@
 
 ### **Gaming School Database Migration** *(Work in Progress)*
 - Migrating Crescent School of Gaming's Access database to PostgreSQL and Recreating forms and UI using Next.js
-- **[Visit Project](https://git.gibbyb.com/gib/games_rewrite)**
+- **[Visit Project](https://git.gibbyb.com/gib/crescent_school)**
 
 ### **Wired World**
 - Mock Website for Electronics Store written in PHP. Created as project for DBMS Class
