@@ -5,10 +5,11 @@
 
 ### **Tech Tracker**
 - React & Node.js Website for Technicians to update their status at the City of Gulfport
+- iOS Application that uses Node API so that Technician's can update their status from anywhere
 - **[Visit Project](https://techtracker.gibbyb.com)**
 
 ### **Gaming School Database Migration** *(Work in Progress)*
-- Migrating Crescent School of Gaming's Access database to MySQL and Recreating forms and UI using React, Node.js, Typescript, & TailwindCSS
+- Migrating Crescent School of Gaming's Access database to PostgreSQL and Recreating forms and UI using Next.js
 - **[Visit Project](https://git.gibbyb.com/gib/games_rewrite)**
 
 ### **Wired World**
